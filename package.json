@@ -1,0 +1,11 @@
+{
+  "name": "videoflex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JeanBarbosa/videoflex.git",
+  "author": "Jean Barbosa <programmer.jean@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
